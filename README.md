@@ -25,7 +25,7 @@ Clone the repository:
 ```markdown
 
 
-git clone https://github.com/AlphaPoint0925/Crypto-Folio.git
+git clone https://github.com/ThomKorey/Crypto-Folio.git
 ```
 Navigate to the project directory:
 ```markdown
